@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I'm loststar. Nice to meet you!🍻
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loststar&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loststar&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ```
           ┌─┐       ┌─┐
        ┌──┘ ┴───────┘ ┴──┐
@@ -24,7 +28,7 @@ I'm loststar. Nice to meet you!🍻
              └──┴──┘       └──┴──┘ 
 
 ```
-[![loststar's github stats](https://github-readme-stats.vercel.app/api?username=loststar)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **loststar/loststar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
