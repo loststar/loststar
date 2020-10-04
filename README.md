@@ -24,7 +24,7 @@ I'm loststar. Nice to meet you!🍻
              └──┴──┘       └──┴──┘ 
 
 ```
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loststar)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **loststar/loststar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
