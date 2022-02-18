@@ -3,7 +3,6 @@
 I'm loststar. Nice to meet you!🍻
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=loststar&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loststar&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
           ┌─┐       ┌─┐
@@ -16,10 +15,10 @@ I'm loststar. Nice to meet you!🍻
        │                 │                             |______\____/|_____/   |_| |_____/   |_/_/    \_\_|  \_\
        └───┐         ┌───┘
            │         │
-           │         │
+           │         │                                                https://loststar.tech
            │         │
            │         └──────────────┐
-           │                        │
+           │                        │                                       搞点薯条！
            │                        ├─┐
            │                        ┌─┘    
            │                        │
