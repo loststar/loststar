@@ -2,7 +2,6 @@
 
 I'm loststar. Nice to meet you!🍻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loststar)](https://github.com/anuraghazra/github-readme-stats)
 
 ```
           ┌─┐       ┌─┐
