@@ -17,7 +17,7 @@ I'm loststar. Nice to meet you!🍻
            │         │                                                https://loststar.tech
            │         │
            │         └──────────────┐
-           │                        │                                       搞点薯条！
+           │                        │                              GO GET SOME FRIES ON THE PIER！
            │                        ├─┐
            │                        ┌─┘    
            │                        │
